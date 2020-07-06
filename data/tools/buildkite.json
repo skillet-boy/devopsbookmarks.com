@@ -1,6 +1,6 @@
 [
   {
-    "slug": "buildkite",
+    //"slug": "buildkite",
     "name": "Buildkite",
     "description": "https://appdynamics.elliemae.com/controller/#/location=APP_DASHBOARD&timeRange=last_1_hour.BEFORE_NOW.-1.-1.60&application=165&dashboardMode=force",
     "tags": [
